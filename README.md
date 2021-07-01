@@ -1,6 +1,6 @@
 # Fedora 31 Ansible Test Image
 
-[![Build](https://github.com/buluma/docker-fedora31-ansible/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/buluma/docker-fedora31-ansible/actions/workflows/build.yml) [![Docker Automated build](https://img.shields.io/docker/automated/buluma/docker-fedora31-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/buluma/docker-fedora31-ansible/) [![Docker Publish Image](https://github.com/buluma/docker-fedora31-ansible/actions/workflows/docker-publish.yml/badge.svg?branch=main)](https://github.com/buluma/docker-fedora31-ansible/actions/workflows/docker-publish.yml)
+[![Build](https://github.com/buluma/docker-fedora31-ansible/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/buluma/docker-fedora31-ansible/actions/workflows/build.yml) ![Docker Pulls](https://img.shields.io/docker/pulls/buluma/docker-fedora31-ansible) [![Docker Automated build](https://img.shields.io/docker/automated/buluma/docker-fedora31-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/buluma/docker-fedora31-ansible/) [![Docker Publish Image](https://github.com/buluma/docker-fedora31-ansible/actions/workflows/docker-publish.yml/badge.svg?branch=main)](https://github.com/buluma/docker-fedora31-ansible/actions/workflows/docker-publish.yml)
 
 Fedora 31 Docker container for Ansible playbook and role testing.
 
